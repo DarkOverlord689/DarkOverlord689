@@ -2,8 +2,8 @@
 -----------------------------------------------------
 BackEnd Developer - Pentester - DevOps aspirant
 ------------------------------------------------------
-* 🌍  I'm based in Perú
-* ✉️  You can contact me at [gabriel.snk14@gmail.com](mailto:gabriel.snk14@gmail.com)
+* 🌍 I'm based in Perú
+* ✉️ You can contact me at [gabriel.snk14@gmail.com](mailto:gabriel.snk14@gmail.com)
 * 📆 6 years in the world of programming
 
 🛠️Tools and Languajes
@@ -13,7 +13,7 @@ BackEnd Developer - Pentester - DevOps aspirant
 
 👨🏻‍🔬 DevOps
 -----------------------------------
-* 🧠 Learning mazon AWS, Docker, Kubernetes
+* 🧠 Learning Amazon AWS, Docker, Kubernetes
 
 👨🏻‍🎨 Creative, programming specialist
 ------------------------------------------------
