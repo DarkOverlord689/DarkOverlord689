@@ -15,7 +15,7 @@ BackEnd Developer - Pentester - DevOps aspirant
 -----------------------------------
 * 🧠 Learning mazon AWS, Docker, Kubernetes
 
-👨🏻‍🎨 Creativo, especialista en programación
+👨🏻‍🎨 Creative, programming specialist
 ------------------------------------------------
 I have experience in Interface Desing, Desing Ux and creation on software
 
