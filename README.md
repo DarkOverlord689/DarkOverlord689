@@ -45,7 +45,7 @@ I have experience in Interface Desing, Desing Ux and creation on software
                                 <a href="https://discord.com/users/Darksi#9088" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" /></a>                          
                                 <a href="https://www.facebook.com/DarkOvs77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" /></a>
                                 <a href="https://www.github.com/DarkOverlord689" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a>
-                                <a href="http://www.instagram.com/ferzgabriel1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
+                                <a href="http://www.instagram.com/darkovs77/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
                                 <a href="https://www.youtube.com/c/UCCsCsVb57V0bRQ3fZBL2wpw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
   </p>
   
