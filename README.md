@@ -27,7 +27,7 @@ BackEnd Developer - Pentester - DevOps aspirant
                     </p>
 
 👨🏻‍🔬 DevOps
-🧠 Learning Amazon AWS, Docker, Kubernetes
+* 🧠 Learning Amazon AWS, Docker, Kubernetes
 -------------------------------------------------
 👨🏻‍🎨 Creative, programming specialist
 
