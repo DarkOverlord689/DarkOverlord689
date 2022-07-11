@@ -25,7 +25,8 @@ BackEnd Developer - Pentester - DevOps aspirant
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
--------------------------------------------------
+ 
+-----------
 
 👨🏻‍🔬 DevOps
 * 🧠 Learning Amazon AWS, Docker, Kubernetes
@@ -33,9 +34,8 @@ BackEnd Developer - Pentester - DevOps aspirant
 👨🏻‍🎨 Creative, programming specialist
 
 I have experience in Interface Desing, Desing Ux and creation on software
-
-👨🏻‍🚀 Skills
 ------------------------------------------------
+👨🏻‍🚀 Skills
 * Advanced knowledge in programming and system development.
 * Working under pressure.
 * Critical, conceptual and analytical thinking.
