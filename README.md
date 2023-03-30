@@ -1,6 +1,6 @@
 Hi 👋 I'm DarkOvs77
 ---------------------
-BackEnd Developer - Pentester - DevOps aspirant
+BackEnd Developer - Pentester - DevOps
 -------------------------------------
 * 🌍 I'm based in Perú
 * ✉️ You can contact me at gabriel.snk14@gmail.com
