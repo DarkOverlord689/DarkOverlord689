@@ -55,7 +55,7 @@ I have experience in Interface Desing, Desing Ux and creation on software
 🥇Badges
 ----------------------------------
    <p align="left">                        
-                              <a href="http://www.github.com/DarkOverlord689"><img src="https://github-readme-stats.vercel.app/api?username=DarkOverlord689&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DarkOverlord689's GitHub stats" /></a>
-                              <a href="http://www.github.com/DarkOverlord689"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkOverlord689&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-                              <a href="https://github.com/DarkOverlord689" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOverlord689&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                              <a href="http://www.github.com/DarkOverlord689"><img src="https://github-readme-stats.vercel.app/api?username=DarkOverlord689&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="DarkOverlord689's GitHub stats" /></a>
+                              <a href="http://www.github.com/DarkOverlord689"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkOverlord689&theme=tokyonight&hide_border=true" /></a>
+                              <a href="https://github.com/DarkOverlord689" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOverlord689&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></a>
 </p>
