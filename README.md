@@ -68,7 +68,7 @@ I have experience in Interface Desing, Desing Ux and creation on software
 🥇Badges
 ----------------------------------
    <p align="left">                        
-                              <a href="http://www.github.com/DarkOverlord689"><img src="https://github-readme-stats.vercel.app/api?username=DarkOverlord689&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="DarkOverlord689's GitHub stats" /></a>
-                              <a href="http://www.github.com/DarkOverlord689"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkOverlord689&theme=tokyonight&hide_border=true" /></a>
-                              <a href="https://github.com/DarkOverlord689" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOverlord689&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></a>
+                              <a href="http://www.github.com/DarkOverlord689"><img src="https://github-readme-stats.vercel.app/api?username=DarkOverlord689&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="DarkOverlord689's GitHub stats" /></a>
+                              <a href="http://www.github.com/DarkOverlord689"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkOverlord689&theme=blueberry&hide_border=true" /></a>
+                              <a href="https://github.com/DarkOverlord689" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkOverlord689&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></a>
 </p>
