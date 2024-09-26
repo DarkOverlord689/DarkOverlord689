@@ -6,7 +6,7 @@ BackEnd Developer - Pentester - DevOps
 * ✉️ You can contact me at gabriel.snk14@gmail.com
 * 📆 6 years in the world of programming
 
-  <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
+  <a href="https://github.com/DarkOverlord689" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DarkOverlord689?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 -----------------------------------
 🛠️Tools and Languajes
