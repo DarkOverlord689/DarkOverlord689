@@ -1,0 +1,12 @@
+{
+  "title": "Engineering Skills",
+  "kind": "illustrative",
+  "axes": [
+    {"label": "AI / ML", "value": 4},
+    {"label": "Backend", "value": 4},
+    {"label": "Automation", "value": 3.5},
+    {"label": "DevOps", "value": 3},
+    {"label": "Databases", "value": 3},
+    {"label": "Frontend", "value": 2.5}
+  ]
+}

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="430" viewBox="0 0 460 430" role="img" aria-labelledby="title desc">
+<title id="title">Engineering Skills · illustrative only</title><desc id="desc">Illustrative radar, not a skill assessment, proficiency score, percentage or repository language distribution. AI / ML, Backend, Automation, DevOps, Databases, Frontend</desc>
+<defs><linearGradient id="signal" x2="1" y2="1">
+<stop stop-color="#50dcf5"/><stop offset=".6" stop-color="#418dff"/><stop offset="1" stop-color="#a897ff"/></linearGradient>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#243a55" stroke-width=".6"/></pattern></defs>
+<rect x="1" y="1" width="458" height="428" rx="12" fill="#0a1526" stroke="#243a55" />
+<text x="22" y="28" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" text-anchor="start" >01 / PROFILE MAP</text>
+<text x="22" y="58" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start" >Engineering Skills</text>
+<path d="M22 77L438 77" fill="none" stroke="#243a55" />
+<polygon points="230.00,126.00 320.07,178.00 320.07,282.00 230.00,334.00 139.93,282.00 139.93,178.00" fill="none" stroke="#243a55"/>
+<polygon points="230.00,152.00 297.55,191.00 297.55,269.00 230.00,308.00 162.45,269.00 162.45,191.00" fill="none" stroke="#243a55"/>
+<polygon points="230.00,178.00 275.03,204.00 275.03,256.00 230.00,282.00 184.97,256.00 184.97,204.00" fill="none" stroke="#243a55"/>
+<polygon points="230.00,204.00 252.52,217.00 252.52,243.00 230.00,256.00 207.48,243.00 207.48,217.00" fill="none" stroke="#243a55"/>
+<path d="M230 230L230.00 126.00" fill="none" stroke="#243a55" />
+<path d="M230 230L320.07 178.00" fill="none" stroke="#243a55" />
+<path d="M230 230L320.07 282.00" fill="none" stroke="#243a55" />
+<path d="M230 230L230.00 334.00" fill="none" stroke="#243a55" />
+<path d="M230 230L139.93 282.00" fill="none" stroke="#243a55" />
+<path d="M230 230L139.93 178.00" fill="none" stroke="#243a55" />
+<polygon points="230.00,146.80 302.05,188.40 293.05,266.40 230.00,292.40 175.96,261.20 184.97,204.00" fill="#50dcf5" fill-opacity=".13" stroke="#50dcf5" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="230.00" cy="146.80" r="3.5" fill="#50dcf5" />
+<text x="230.00" y="99.00" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" >AI / ML</text>
+<circle cx="302.05" cy="188.40" r="3.5" fill="#50dcf5" />
+<text x="336.52" y="173.50" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start" >Backend</text>
+<circle cx="293.05" cy="266.40" r="3.5" fill="#50dcf5" />
+<text x="336.52" y="296.50" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start" >Automation</text>
+<circle cx="230.00" cy="292.40" r="3.5" fill="#50dcf5" />
+<text x="230.00" y="370.00" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" >DevOps</text>
+<circle cx="175.96" cy="261.20" r="3.5" fill="#50dcf5" />
+<text x="123.48" y="296.50" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="end" >Databases</text>
+<circle cx="184.97" cy="204.00" r="3.5" fill="#50dcf5" />
+<text x="123.48" y="173.50" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="end" >Frontend</text>
+<path d="M22 382L438 382" fill="none" stroke="#243a55" />
+<circle cx="26" cy="405" r="3" fill="#a897ff" />
+<text x="38" y="410" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" text-anchor="start" >ILLUSTRATIVE / NOT A SKILL SCORE</text>
+</svg>

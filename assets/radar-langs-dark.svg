@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="430" viewBox="0 0 460 430" role="img" aria-labelledby="title desc">
+<title id="title">Languages / Tech · illustrative only</title><desc id="desc">Illustrative radar, not a skill assessment, proficiency score, percentage or repository language distribution. Python, Java, JavaScript, TypeScript, Kotlin</desc>
+<defs><linearGradient id="signal" x2="1" y2="1">
+<stop stop-color="#50dcf5"/><stop offset=".6" stop-color="#418dff"/><stop offset="1" stop-color="#a897ff"/></linearGradient>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#243a55" stroke-width=".6"/></pattern></defs>
+<rect x="1" y="1" width="458" height="428" rx="12" fill="#0a1526" stroke="#243a55" />
+<text x="22" y="28" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" text-anchor="start" >02 / PROFILE MAP</text>
+<text x="22" y="58" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start" >Languages / Tech</text>
+<path d="M22 77L438 77" fill="none" stroke="#243a55" />
+<polygon points="230.00,126.00 328.91,197.86 291.13,314.14 168.87,314.14 131.09,197.86" fill="none" stroke="#243a55"/>
+<polygon points="230.00,152.00 304.18,205.90 275.85,293.10 184.15,293.10 155.82,205.90" fill="none" stroke="#243a55"/>
+<polygon points="230.00,178.00 279.45,213.93 260.56,272.07 199.44,272.07 180.55,213.93" fill="none" stroke="#243a55"/>
+<polygon points="230.00,204.00 254.73,221.97 245.28,251.03 214.72,251.03 205.27,221.97" fill="none" stroke="#243a55"/>
+<path d="M230 230L230.00 126.00" fill="none" stroke="#243a55" />
+<path d="M230 230L328.91 197.86" fill="none" stroke="#243a55" />
+<path d="M230 230L291.13 314.14" fill="none" stroke="#243a55" />
+<path d="M230 230L168.87 314.14" fill="none" stroke="#243a55" />
+<path d="M230 230L131.09 197.86" fill="none" stroke="#243a55" />
+<polygon points="230.00,146.80 299.24,207.50 266.68,280.48 193.32,280.48 180.55,213.93" fill="#50dcf5" fill-opacity=".13" stroke="#50dcf5" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="230.00" cy="146.80" r="3.5" fill="#50dcf5" />
+<text x="230.00" y="99.00" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" >Python</text>
+<circle cx="299.24" cy="207.50" r="3.5" fill="#50dcf5" />
+<text x="346.98" y="196.99" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start" >Java</text>
+<circle cx="266.68" cy="280.48" r="3.5" fill="#50dcf5" />
+<text x="302.30" y="346.51" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start" >JavaScript</text>
+<circle cx="193.32" cy="280.48" r="3.5" fill="#50dcf5" />
+<text x="157.70" y="346.51" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="end" >TypeScript</text>
+<circle cx="180.55" cy="213.93" r="3.5" fill="#50dcf5" />
+<text x="113.02" y="196.99" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" text-anchor="end" >Kotlin</text>
+<path d="M22 382L438 382" fill="none" stroke="#243a55" />
+<circle cx="26" cy="405" r="3" fill="#a897ff" />
+<text x="38" y="410" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" text-anchor="start" >ILLUSTRATIVE / NOT A SKILL SCORE</text>
+</svg>

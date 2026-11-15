@@ -1,0 +1,46 @@
+# Local backups, previews and tests (preview/ holds the local validation tools)
+/README.backup.md
+/preview/
+/tmp/
+/temp/
+/test-results/
+/screenshots/
+*.tmp
+*.temp
+*.bak
+*.log
+*.swp
+*.test.svg
+
+# Tooling and caches
+node_modules/
+python_packages/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+.coverage
+
+# Local configuration, credentials and OS files
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+.aws/
+.ssh/
+.codex/
+.agents/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

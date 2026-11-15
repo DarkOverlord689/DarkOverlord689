@@ -1,0 +1,344 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="486" viewBox="0 0 960 486" role="img" aria-labelledby="title desc">
+<title id="title">Gabriel “Darksi” · AI Engineering / Backend Development</title><desc id="desc">Original IDE profile. Abstract D formed by animated particles in a subtle 5.6-second loop. DarkOverlord689, Perú. AI Engineering, Backend Development, Automation and DevOps.</desc>
+<defs><linearGradient id="signal" x2="1" y2="1">
+<stop stop-color="#50dcf5"/><stop offset=".6" stop-color="#418dff"/><stop offset="1" stop-color="#a897ff"/></linearGradient>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#243a55" stroke-width=".6"/></pattern></defs>
+<rect x="1" y="1" width="958" height="484" rx="14" fill="#050c17" stroke="#243a55" />
+<rect x="1" y="1" width="958" height="40" rx="14" fill="#0a1526" />
+<circle cx="22" cy="21" r="4" fill="#50dcf5" />
+<circle cx="40" cy="21" r="4" fill="#418dff" />
+<circle cx="58" cy="21" r="4" fill="#a897ff" />
+<text x="82" y="26" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" >darksi / profile workspace</text>
+<path d="M1 41L959 41" fill="none" stroke="#243a55" />
+<rect x="1" y="42" width="958" height="36" rx="0" fill="#0a1526" />
+<path d="M1 78L959 78" fill="none" stroke="#243a55" />
+<path d="M20 77L180 77" fill="none" stroke="#50dcf5" stroke-width="2"/>
+<text x="22" y="65" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" >profile.yaml</text>
+<text x="206" y="65" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="start" >README.md</text>
+<rect x="1" y="79" width="38" height="370" rx="0" fill="#0a1526" />
+<rect x="13" y="104" width="14" height="17" rx="2" fill="none" stroke="#91a9c5" />
+<rect x="13" y="142" width="14" height="17" rx="2" fill="none" stroke="#91a9c5" />
+<rect x="13" y="180" width="14" height="17" rx="2" fill="none" stroke="#91a9c5" />
+<path d="M39 79L39 449" fill="none" stroke="#243a55" />
+<g transform="translate(60 98) scale(1)">
+<rect x="0" y="0" width="260" height="248" rx="8" fill="#0e1d33" stroke="#243a55" />
+<rect x="1" y="1" width="258" height="246" rx="8" fill="url(#grid)" />
+<circle cx="130" cy="114" r="78" fill="none" stroke="#243a55" stroke-dasharray="3 7"/>
+<circle cx="130" cy="114" r="100" fill="none" stroke="#243a55" stroke-dasharray="3 7"/>
+<defs><filter id="particle-glow" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="1.1" result="bloom"/><feMerge><feMergeNode in="bloom"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>#d-particles{opacity:.86;animation:particle-light 5.6s ease-in-out infinite}#d-particles circle{animation:particle-assemble 5.6s cubic-bezier(.4,0,.2,1) infinite}@keyframes particle-assemble{0%,12%,100%{transform:translate(var(--sx),var(--sy))}48%,82%{transform:translate(0px,0px)}}@keyframes particle-light{0%,100%{opacity:.08}12%{opacity:.3}48%,82%{opacity:.8}62%{opacity:1}}@media(prefers-reduced-motion:reduce){#d-particles,#d-particles circle{animation:none}#d-particles circle{transform:none}}</style>
+<g id="d-particles" filter="url(#particle-glow)">
+<g fill="#50dcf5">
+<circle cx="79" cy="43" r="1.65" style="--sx:73.6px;--sy:136.7px"/>
+<circle cx="85" cy="43" r="1.65" style="--sx:-58.7px;--sy:67.6px"/>
+<circle cx="91" cy="43" r="1.65" style="--sx:130.3px;--sy:159.4px"/>
+<circle cx="97" cy="43" r="1.65" style="--sx:52px;--sy:41.9px"/>
+<circle cx="103" cy="43" r="1.65" style="--sx:99.7px;--sy:-1.8px"/>
+<circle cx="109" cy="43" r="1.65" style="--sx:-48.8px;--sy:65.9px"/>
+<circle cx="115" cy="43" r="1.65" style="--sx:-67px;--sy:53.3px"/>
+<circle cx="121" cy="43" r="1.65" style="--sx:67px;--sy:146.5px"/>
+<circle cx="127" cy="43" r="1.65" style="--sx:75.5px;--sy:53.2px"/>
+<circle cx="133" cy="43" r="1.65" style="--sx:100.6px;--sy:135.9px"/>
+<circle cx="139" cy="43" r="1.65" style="--sx:55.3px;--sy:-8.8px"/>
+<circle cx="79" cy="49" r="1.65" style="--sx:2.2px;--sy:91.2px"/>
+<circle cx="85" cy="49" r="1.65" style="--sx:20.8px;--sy:76.8px"/>
+<circle cx="91" cy="49" r="1.65" style="--sx:32.4px;--sy:12.2px"/>
+<circle cx="97" cy="49" r="1.65" style="--sx:-53.2px;--sy:134.1px"/>
+<circle cx="103" cy="49" r="1.65" style="--sx:23.3px;--sy:141.2px"/>
+<circle cx="109" cy="49" r="1.65" style="--sx:86.7px;--sy:149.2px"/>
+<circle cx="115" cy="49" r="1.65" style="--sx:-18.6px;--sy:45.6px"/>
+<circle cx="121" cy="49" r="1.65" style="--sx:36.8px;--sy:26.5px"/>
+<circle cx="127" cy="49" r="1.65" style="--sx:-35.6px;--sy:86px"/>
+<circle cx="133" cy="49" r="1.65" style="--sx:36.4px;--sy:86.1px"/>
+<circle cx="139" cy="49" r="1.65" style="--sx:-87.9px;--sy:108.8px"/>
+<circle cx="145" cy="49" r="1.65" style="--sx:-57.3px;--sy:83.1px"/>
+<circle cx="79" cy="55" r="1.65" style="--sx:28.5px;--sy:66.6px"/>
+<circle cx="85" cy="55" r="1.65" style="--sx:140.9px;--sy:10.4px"/>
+<circle cx="91" cy="55" r="1.65" style="--sx:-47.3px;--sy:2.8px"/>
+<circle cx="97" cy="55" r="1.65" style="--sx:109.6px;--sy:16.6px"/>
+<circle cx="103" cy="55" r="1.65" style="--sx:12.3px;--sy:146.7px"/>
+<circle cx="109" cy="55" r="1.65" style="--sx:101.5px;--sy:84.1px"/>
+<circle cx="115" cy="55" r="1.65" style="--sx:39px;--sy:66.6px"/>
+<circle cx="121" cy="55" r="1.65" style="--sx:47.8px;--sy:142.3px"/>
+<circle cx="127" cy="55" r="1.65" style="--sx:-77.6px;--sy:139.5px"/>
+<circle cx="133" cy="55" r="1.65" style="--sx:-4px;--sy:112.3px"/>
+<circle cx="139" cy="55" r="1.65" style="--sx:77.6px;--sy:106.5px"/>
+<circle cx="145" cy="55" r="1.65" style="--sx:-52px;--sy:32.3px"/>
+<circle cx="151" cy="55" r="1.65" style="--sx:1.9px;--sy:102.5px"/>
+<circle cx="157" cy="55" r="1.65" style="--sx:-127.4px;--sy:93.7px"/>
+<circle cx="79" cy="61" r="1.65" style="--sx:71.3px;--sy:96.5px"/>
+<circle cx="85" cy="61" r="1.65" style="--sx:-37.5px;--sy:-25.9px"/>
+<circle cx="91" cy="61" r="1.65" style="--sx:-6.9px;--sy:124.4px"/>
+<circle cx="97" cy="61" r="1.65" style="--sx:-12px;--sy:56.8px"/>
+<circle cx="103" cy="61" r="1.65" style="--sx:119.6px;--sy:-35.4px"/>
+<circle cx="109" cy="61" r="1.65" style="--sx:50.9px;--sy:124.1px"/>
+<circle cx="115" cy="61" r="1.65" style="--sx:-37.9px;--sy:-20.2px"/>
+<circle cx="121" cy="61" r="1.65" style="--sx:79.5px;--sy:31.5px"/>
+<circle cx="127" cy="61" r="1.65" style="--sx:-46.1px;--sy:143px"/>
+<circle cx="133" cy="61" r="1.65" style="--sx:-51.6px;--sy:73.7px"/>
+<circle cx="139" cy="61" r="1.65" style="--sx:-90.3px;--sy:-28.9px"/>
+<circle cx="145" cy="61" r="1.65" style="--sx:84.1px;--sy:-0px"/>
+<circle cx="151" cy="61" r="1.65" style="--sx:-97.9px;--sy:-21.3px"/>
+<circle cx="157" cy="61" r="1.65" style="--sx:-36px;--sy:18.2px"/>
+<circle cx="163" cy="61" r="1.65" style="--sx:36.4px;--sy:-13.9px"/>
+<circle cx="79" cy="67" r="1.65" style="--sx:80.8px;--sy:65.1px"/>
+<circle cx="85" cy="67" r="1.65" style="--sx:72px;--sy:115px"/>
+<circle cx="91" cy="67" r="1.65" style="--sx:73.4px;--sy:67.9px"/>
+<circle cx="97" cy="67" r="1.65" style="--sx:20.8px;--sy:-29.8px"/>
+<circle cx="133" cy="67" r="1.65" style="--sx:26.6px;--sy:124.4px"/>
+<circle cx="139" cy="67" r="1.65" style="--sx:35.2px;--sy:106.1px"/>
+<circle cx="145" cy="67" r="1.65" style="--sx:-13.3px;--sy:18.5px"/>
+<circle cx="151" cy="67" r="1.65" style="--sx:-121.2px;--sy:41.7px"/>
+<circle cx="157" cy="67" r="1.65" style="--sx:-72.5px;--sy:92.7px"/>
+<circle cx="163" cy="67" r="1.65" style="--sx:54.3px;--sy:1px"/>
+<circle cx="169" cy="67" r="1.65" style="--sx:-28.5px;--sy:95.9px"/>
+<circle cx="79" cy="73" r="1.65" style="--sx:64.2px;--sy:53.4px"/>
+<circle cx="85" cy="73" r="1.65" style="--sx:94.9px;--sy:50.7px"/>
+<circle cx="91" cy="73" r="1.65" style="--sx:-14.8px;--sy:10.2px"/>
+<circle cx="97" cy="73" r="1.65" style="--sx:99.2px;--sy:80.5px"/>
+<circle cx="145" cy="73" r="1.65" style="--sx:-1px;--sy:80.8px"/>
+<circle cx="151" cy="73" r="1.65" style="--sx:-56.4px;--sy:-46px"/>
+<circle cx="157" cy="73" r="1.65" style="--sx:-5.4px;--sy:69.3px"/>
+<circle cx="163" cy="73" r="1.65" style="--sx:30.6px;--sy:115.2px"/>
+<circle cx="169" cy="73" r="1.65" style="--sx:-56.7px;--sy:115.7px"/>
+<circle cx="175" cy="73" r="1.65" style="--sx:-62.8px;--sy:64.7px"/>
+<circle cx="79" cy="79" r="1.65" style="--sx:84.1px;--sy:74.5px"/>
+<circle cx="85" cy="79" r="1.65" style="--sx:145.1px;--sy:20px"/>
+<circle cx="91" cy="79" r="1.65" style="--sx:-3.5px;--sy:-8.3px"/>
+<circle cx="97" cy="79" r="1.65" style="--sx:41.3px;--sy:37.3px"/>
+<circle cx="151" cy="79" r="1.65" style="--sx:-13.7px;--sy:60px"/>
+<circle cx="157" cy="79" r="1.65" style="--sx:-63.6px;--sy:8.6px"/>
+<circle cx="163" cy="79" r="1.65" style="--sx:-37.7px;--sy:69.5px"/>
+<circle cx="79" cy="85" r="1.65" style="--sx:53.3px;--sy:-16.1px"/>
+<circle cx="85" cy="85" r="1.65" style="--sx:85.9px;--sy:-21.4px"/>
+<circle cx="91" cy="85" r="1.65" style="--sx:-43.1px;--sy:-42.8px"/>
+<circle cx="97" cy="85" r="1.65" style="--sx:46.6px;--sy:111.2px"/>
+<circle cx="157" cy="85" r="1.65" style="--sx:-125.2px;--sy:-42.9px"/>
+<circle cx="79" cy="91" r="1.65" style="--sx:52.3px;--sy:9.1px"/>
+<circle cx="85" cy="91" r="1.65" style="--sx:-18.1px;--sy:110.4px"/>
+<circle cx="91" cy="91" r="1.65" style="--sx:40.4px;--sy:108.3px"/>
+<circle cx="97" cy="91" r="1.65" style="--sx:102px;--sy:88.1px"/>
+<circle cx="79" cy="97" r="1.65" style="--sx:17.6px;--sy:-47.8px"/>
+<circle cx="85" cy="97" r="1.65" style="--sx:143.2px;--sy:-21.9px"/>
+<circle cx="91" cy="97" r="1.65" style="--sx:67px;--sy:38.9px"/>
+<circle cx="97" cy="97" r="1.65" style="--sx:-15.1px;--sy:61.3px"/>
+<circle cx="79" cy="103" r="1.65" style="--sx:46px;--sy:61.7px"/>
+<circle cx="85" cy="103" r="1.65" style="--sx:93.1px;--sy:81.9px"/>
+<circle cx="91" cy="103" r="1.65" style="--sx:1.2px;--sy:65.6px"/>
+<circle cx="97" cy="103" r="1.65" style="--sx:-57.6px;--sy:83.1px"/>
+<circle cx="79" cy="109" r="1.65" style="--sx:7.9px;--sy:30.8px"/>
+<circle cx="85" cy="109" r="1.65" style="--sx:-42.4px;--sy:-59.3px"/>
+<circle cx="91" cy="109" r="1.65" style="--sx:85.9px;--sy:49.9px"/>
+<circle cx="97" cy="109" r="1.65" style="--sx:78px;--sy:52.2px"/>
+<circle cx="79" cy="115" r="1.65" style="--sx:46.1px;--sy:-54.5px"/>
+<circle cx="85" cy="115" r="1.65" style="--sx:-15.7px;--sy:5.8px"/>
+<circle cx="91" cy="115" r="1.65" style="--sx:118px;--sy:37.1px"/>
+<circle cx="97" cy="115" r="1.65" style="--sx:-10.1px;--sy:-88.1px"/>
+<circle cx="79" cy="121" r="1.65" style="--sx:114.7px;--sy:-74.7px"/>
+<circle cx="85" cy="121" r="1.65" style="--sx:-9.7px;--sy:-65.8px"/>
+<circle cx="91" cy="121" r="1.65" style="--sx:7.8px;--sy:-86.4px"/>
+<circle cx="97" cy="121" r="1.65" style="--sx:95.6px;--sy:1.7px"/>
+<circle cx="79" cy="127" r="1.65" style="--sx:153.1px;--sy:48px"/>
+<circle cx="85" cy="127" r="1.65" style="--sx:69.2px;--sy:-10.9px"/>
+<circle cx="91" cy="127" r="1.65" style="--sx:78.6px;--sy:1.6px"/>
+<circle cx="97" cy="127" r="1.65" style="--sx:108.4px;--sy:-72.8px"/>
+<circle cx="79" cy="133" r="1.65" style="--sx:-5.7px;--sy:39.5px"/>
+<circle cx="85" cy="133" r="1.65" style="--sx:130.1px;--sy:-16.6px"/>
+<circle cx="79" cy="139" r="1.65" style="--sx:147.2px;--sy:40.3px"/>
+</g>
+<g fill="#418dff">
+<circle cx="169" cy="79" r="1.65" style="--sx:-34.6px;--sy:-0.4px"/>
+<circle cx="175" cy="79" r="1.65" style="--sx:-39.5px;--sy:14.3px"/>
+<circle cx="181" cy="79" r="1.65" style="--sx:-86.1px;--sy:116.4px"/>
+<circle cx="187" cy="79" r="1.65" style="--sx:-38.2px;--sy:-20.3px"/>
+<circle cx="163" cy="85" r="1.65" style="--sx:-78.9px;--sy:109.3px"/>
+<circle cx="169" cy="85" r="1.65" style="--sx:-24px;--sy:23.5px"/>
+<circle cx="175" cy="85" r="1.65" style="--sx:38px;--sy:25.5px"/>
+<circle cx="181" cy="85" r="1.65" style="--sx:-133px;--sy:-12.3px"/>
+<circle cx="187" cy="85" r="1.65" style="--sx:-35.3px;--sy:-42.3px"/>
+<circle cx="163" cy="91" r="1.65" style="--sx:-87.6px;--sy:16.3px"/>
+<circle cx="169" cy="91" r="1.65" style="--sx:-88px;--sy:-59.6px"/>
+<circle cx="175" cy="91" r="1.65" style="--sx:-117.9px;--sy:-29.6px"/>
+<circle cx="181" cy="91" r="1.65" style="--sx:15.7px;--sy:27px"/>
+<circle cx="187" cy="91" r="1.65" style="--sx:35.7px;--sy:100.5px"/>
+<circle cx="169" cy="97" r="1.65" style="--sx:-31.4px;--sy:84.8px"/>
+<circle cx="175" cy="97" r="1.65" style="--sx:-62.8px;--sy:-1.9px"/>
+<circle cx="181" cy="97" r="1.65" style="--sx:-11.2px;--sy:-36px"/>
+<circle cx="187" cy="97" r="1.65" style="--sx:-7px;--sy:-30.1px"/>
+<circle cx="169" cy="103" r="1.65" style="--sx:-50.7px;--sy:-31.1px"/>
+<circle cx="175" cy="103" r="1.65" style="--sx:22.7px;--sy:-3.6px"/>
+<circle cx="181" cy="103" r="1.65" style="--sx:-27.4px;--sy:34.4px"/>
+<circle cx="187" cy="103" r="1.65" style="--sx:-118.2px;--sy:-48.8px"/>
+<circle cx="169" cy="109" r="1.65" style="--sx:-15.6px;--sy:-19.9px"/>
+<circle cx="175" cy="109" r="1.65" style="--sx:-3.5px;--sy:-16.3px"/>
+<circle cx="181" cy="109" r="1.65" style="--sx:39.8px;--sy:24.4px"/>
+<circle cx="187" cy="109" r="1.65" style="--sx:-115.1px;--sy:-67.4px"/>
+<circle cx="169" cy="115" r="1.65" style="--sx:-141.8px;--sy:-89.3px"/>
+<circle cx="175" cy="115" r="1.65" style="--sx:-142.4px;--sy:83.5px"/>
+<circle cx="181" cy="115" r="1.65" style="--sx:-99.6px;--sy:-7.9px"/>
+<circle cx="187" cy="115" r="1.65" style="--sx:-97px;--sy:76.4px"/>
+<circle cx="169" cy="121" r="1.65" style="--sx:-107.6px;--sy:1.6px"/>
+<circle cx="175" cy="121" r="1.65" style="--sx:-35.4px;--sy:-48.4px"/>
+<circle cx="181" cy="121" r="1.65" style="--sx:-41.3px;--sy:-38.2px"/>
+<circle cx="187" cy="121" r="1.65" style="--sx:-39.3px;--sy:-68.9px"/>
+<circle cx="169" cy="127" r="1.65" style="--sx:-112px;--sy:-27.4px"/>
+<circle cx="175" cy="127" r="1.65" style="--sx:-84.6px;--sy:-57px"/>
+<circle cx="181" cy="127" r="1.65" style="--sx:-148.1px;--sy:-49.7px"/>
+<circle cx="187" cy="127" r="1.65" style="--sx:-50.9px;--sy:-17.5px"/>
+<circle cx="91" cy="133" r="1.65" style="--sx:66.5px;--sy:-65.3px"/>
+<circle cx="97" cy="133" r="1.65" style="--sx:-13.9px;--sy:-54.6px"/>
+<circle cx="169" cy="133" r="1.65" style="--sx:-85.5px;--sy:-40.1px"/>
+<circle cx="175" cy="133" r="1.65" style="--sx:-21.7px;--sy:32px"/>
+<circle cx="181" cy="133" r="1.65" style="--sx:11.1px;--sy:51.9px"/>
+<circle cx="187" cy="133" r="1.65" style="--sx:5.5px;--sy:27.2px"/>
+<circle cx="85" cy="139" r="1.65" style="--sx:66.3px;--sy:-11.8px"/>
+<circle cx="91" cy="139" r="1.65" style="--sx:-40.1px;--sy:-51px"/>
+<circle cx="97" cy="139" r="1.65" style="--sx:118px;--sy:-32.6px"/>
+<circle cx="163" cy="139" r="1.65" style="--sx:13.3px;--sy:-57.6px"/>
+<circle cx="169" cy="139" r="1.65" style="--sx:-75.6px;--sy:20.8px"/>
+<circle cx="175" cy="139" r="1.65" style="--sx:-17.7px;--sy:-65.4px"/>
+<circle cx="181" cy="139" r="1.65" style="--sx:-61.9px;--sy:-26.7px"/>
+<circle cx="187" cy="139" r="1.65" style="--sx:-160.8px;--sy:-108.6px"/>
+<circle cx="79" cy="145" r="1.65" style="--sx:-2.4px;--sy:2.2px"/>
+<circle cx="85" cy="145" r="1.65" style="--sx:102.1px;--sy:-106.2px"/>
+<circle cx="91" cy="145" r="1.65" style="--sx:49.9px;--sy:-44.8px"/>
+<circle cx="97" cy="145" r="1.65" style="--sx:124.7px;--sy:-79.8px"/>
+<circle cx="157" cy="145" r="1.65" style="--sx:1.4px;--sy:34.3px"/>
+<circle cx="163" cy="145" r="1.65" style="--sx:-110.7px;--sy:6.9px"/>
+<circle cx="169" cy="145" r="1.65" style="--sx:-3.7px;--sy:1.6px"/>
+<circle cx="175" cy="145" r="1.65" style="--sx:55px;--sy:-59.8px"/>
+<circle cx="181" cy="145" r="1.65" style="--sx:-55px;--sy:10.9px"/>
+<circle cx="187" cy="145" r="1.65" style="--sx:-40.9px;--sy:-4.6px"/>
+<circle cx="79" cy="151" r="1.65" style="--sx:106.1px;--sy:9.6px"/>
+<circle cx="85" cy="151" r="1.65" style="--sx:-48.6px;--sy:-15.2px"/>
+<circle cx="91" cy="151" r="1.65" style="--sx:120.3px;--sy:7.8px"/>
+<circle cx="97" cy="151" r="1.65" style="--sx:-28.3px;--sy:-57.9px"/>
+<circle cx="145" cy="151" r="1.65" style="--sx:-74.7px;--sy:5.5px"/>
+<circle cx="151" cy="151" r="1.65" style="--sx:-72.8px;--sy:-95.4px"/>
+<circle cx="157" cy="151" r="1.65" style="--sx:-11.6px;--sy:-33.1px"/>
+<circle cx="163" cy="151" r="1.65" style="--sx:-98.3px;--sy:52.5px"/>
+<circle cx="169" cy="151" r="1.65" style="--sx:26.3px;--sy:30.9px"/>
+<circle cx="175" cy="151" r="1.65" style="--sx:37.9px;--sy:44px"/>
+<circle cx="181" cy="151" r="1.65" style="--sx:-151.3px;--sy:-88.1px"/>
+<circle cx="79" cy="157" r="1.65" style="--sx:73.1px;--sy:22.8px"/>
+<circle cx="85" cy="157" r="1.65" style="--sx:-7.3px;--sy:-35.3px"/>
+<circle cx="91" cy="157" r="1.65" style="--sx:-25.3px;--sy:-78.2px"/>
+<circle cx="97" cy="157" r="1.65" style="--sx:-6.3px;--sy:-116.2px"/>
+<circle cx="139" cy="157" r="1.65" style="--sx:-16.7px;--sy:40.5px"/>
+<circle cx="145" cy="157" r="1.65" style="--sx:-112.2px;--sy:-65.6px"/>
+<circle cx="151" cy="157" r="1.65" style="--sx:-20.8px;--sy:-125.5px"/>
+<circle cx="157" cy="157" r="1.65" style="--sx:-83.8px;--sy:-18.2px"/>
+<circle cx="163" cy="157" r="1.65" style="--sx:16.8px;--sy:-42.4px"/>
+<circle cx="169" cy="157" r="1.65" style="--sx:-15.8px;--sy:-108.5px"/>
+<circle cx="175" cy="157" r="1.65" style="--sx:-148.5px;--sy:15.1px"/>
+<circle cx="79" cy="163" r="1.65" style="--sx:43.1px;--sy:-57.8px"/>
+<circle cx="85" cy="163" r="1.65" style="--sx:127px;--sy:-53.9px"/>
+<circle cx="91" cy="163" r="1.65" style="--sx:70.8px;--sy:-57.9px"/>
+<circle cx="97" cy="163" r="1.65" style="--sx:124px;--sy:-118.9px"/>
+<circle cx="103" cy="163" r="1.65" style="--sx:55.2px;--sy:-44.2px"/>
+<circle cx="109" cy="163" r="1.65" style="--sx:-49.9px;--sy:-8.6px"/>
+<circle cx="115" cy="163" r="1.65" style="--sx:69px;--sy:-107.1px"/>
+<circle cx="121" cy="163" r="1.65" style="--sx:-12.9px;--sy:-25.1px"/>
+<circle cx="127" cy="163" r="1.65" style="--sx:-28.2px;--sy:29.9px"/>
+<circle cx="133" cy="163" r="1.65" style="--sx:-91.6px;--sy:-78.3px"/>
+<circle cx="139" cy="163" r="1.65" style="--sx:24.6px;--sy:-26.4px"/>
+<circle cx="145" cy="163" r="1.65" style="--sx:-34.6px;--sy:-29.2px"/>
+<circle cx="151" cy="163" r="1.65" style="--sx:57.6px;--sy:-18.6px"/>
+<circle cx="157" cy="163" r="1.65" style="--sx:-127.1px;--sy:-106.1px"/>
+<circle cx="163" cy="163" r="1.65" style="--sx:40.8px;--sy:-55.6px"/>
+<circle cx="169" cy="163" r="1.65" style="--sx:-85.9px;--sy:0.6px"/>
+<circle cx="79" cy="169" r="1.65" style="--sx:-1.7px;--sy:-22.1px"/>
+<circle cx="85" cy="169" r="1.65" style="--sx:-0.2px;--sy:-92.1px"/>
+<circle cx="91" cy="169" r="1.65" style="--sx:-46.8px;--sy:-84.8px"/>
+<circle cx="97" cy="169" r="1.65" style="--sx:-22.8px;--sy:-104.8px"/>
+<circle cx="103" cy="169" r="1.65" style="--sx:-43.7px;--sy:-109.5px"/>
+<circle cx="109" cy="169" r="1.65" style="--sx:116px;--sy:-118.2px"/>
+<circle cx="115" cy="169" r="1.65" style="--sx:96.9px;--sy:-1.8px"/>
+<circle cx="121" cy="169" r="1.65" style="--sx:-33.4px;--sy:16.7px"/>
+<circle cx="127" cy="169" r="1.65" style="--sx:-79.2px;--sy:-87.8px"/>
+<circle cx="133" cy="169" r="1.65" style="--sx:-91.1px;--sy:29.5px"/>
+<circle cx="139" cy="169" r="1.65" style="--sx:-32.1px;--sy:-50.4px"/>
+<circle cx="145" cy="169" r="1.65" style="--sx:83px;--sy:1.4px"/>
+<circle cx="151" cy="169" r="1.65" style="--sx:-104.2px;--sy:-63.8px"/>
+<circle cx="157" cy="169" r="1.65" style="--sx:-95.5px;--sy:-79.5px"/>
+<circle cx="79" cy="175" r="1.65" style="--sx:30.8px;--sy:-10.9px"/>
+<circle cx="85" cy="175" r="1.65" style="--sx:-36.1px;--sy:-14.4px"/>
+<circle cx="91" cy="175" r="1.65" style="--sx:47.6px;--sy:-14.4px"/>
+<circle cx="97" cy="175" r="1.65" style="--sx:-2.5px;--sy:-7.9px"/>
+<circle cx="103" cy="175" r="1.65" style="--sx:-59.4px;--sy:-119.5px"/>
+<circle cx="109" cy="175" r="1.65" style="--sx:-62.4px;--sy:-103.6px"/>
+<circle cx="115" cy="175" r="1.65" style="--sx:69.9px;--sy:-38px"/>
+<circle cx="121" cy="175" r="1.65" style="--sx:33.7px;--sy:-0px"/>
+<circle cx="127" cy="175" r="1.65" style="--sx:-37.9px;--sy:17.1px"/>
+<circle cx="133" cy="175" r="1.65" style="--sx:-17.9px;--sy:-111.8px"/>
+<circle cx="139" cy="175" r="1.65" style="--sx:3.9px;--sy:-58.8px"/>
+<circle cx="145" cy="175" r="1.65" style="--sx:32.6px;--sy:-110.5px"/>
+<circle cx="151" cy="175" r="1.65" style="--sx:18.3px;--sy:-96.6px"/>
+<circle cx="79" cy="181" r="1.65" style="--sx:115.6px;--sy:-68px"/>
+<circle cx="85" cy="181" r="1.65" style="--sx:13.7px;--sy:2.4px"/>
+<circle cx="91" cy="181" r="1.65" style="--sx:17px;--sy:-60.6px"/>
+<circle cx="97" cy="181" r="1.65" style="--sx:64.8px;--sy:-91.9px"/>
+<circle cx="103" cy="181" r="1.65" style="--sx:63.2px;--sy:-147.7px"/>
+<circle cx="109" cy="181" r="1.65" style="--sx:68.1px;--sy:-116.4px"/>
+<circle cx="115" cy="181" r="1.65" style="--sx:51.3px;--sy:-133.9px"/>
+<circle cx="121" cy="181" r="1.65" style="--sx:49.7px;--sy:-120.6px"/>
+<circle cx="127" cy="181" r="1.65" style="--sx:80.8px;--sy:-88.9px"/>
+<circle cx="133" cy="181" r="1.65" style="--sx:53.1px;--sy:22.7px"/>
+<circle cx="139" cy="181" r="1.65" style="--sx:85.2px;--sy:-11.3px"/>
+<circle cx="145" cy="181" r="1.65" style="--sx:48.8px;--sy:-54.8px"/>
+<circle cx="79" cy="187" r="1.65" style="--sx:14.8px;--sy:-51.5px"/>
+<circle cx="85" cy="187" r="1.65" style="--sx:131.4px;--sy:-125.7px"/>
+<circle cx="91" cy="187" r="1.65" style="--sx:43.8px;--sy:-33.3px"/>
+<circle cx="97" cy="187" r="1.65" style="--sx:-67px;--sy:-33.8px"/>
+<circle cx="103" cy="187" r="1.65" style="--sx:43.9px;--sy:-120.9px"/>
+<circle cx="109" cy="187" r="1.65" style="--sx:87.2px;--sy:-112.1px"/>
+<circle cx="115" cy="187" r="1.65" style="--sx:-72.1px;--sy:-151.1px"/>
+<circle cx="121" cy="187" r="1.65" style="--sx:87.6px;--sy:-81px"/>
+<circle cx="127" cy="187" r="1.65" style="--sx:-1.1px;--sy:-84.9px"/>
+<circle cx="133" cy="187" r="1.65" style="--sx:-9.6px;--sy:-18.2px"/>
+<circle cx="139" cy="187" r="1.65" style="--sx:25.5px;--sy:-92.2px"/>
+</g>
+<g fill="#a897ff">
+</g>
+</g>
+<path d="M17 82H56V114H80M180 114H212V157H243M130 181V211H207" fill="none" stroke="#50dcf5" stroke-width="2"/>
+<circle cx="17" cy="82" r="3" fill="#50dcf5" />
+<circle cx="243" cy="157" r="3" fill="#50dcf5" />
+<circle cx="207" cy="211" r="3" fill="#50dcf5" />
+<text x="16" y="230" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" text-anchor="start" >D / IDENTITY MODULE</text>
+</g>
+<text x="60" y="383" fill="#e5f1ff" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700" text-anchor="start" >GABRIEL</text>
+<text x="60" y="414" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="25" font-weight="700" text-anchor="start" >“DARKSI”</text>
+<path d="M342 79L342 449" fill="none" stroke="#243a55" />
+<text x="368" y="108" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" >IDENTITY / CONFIGURATION</text>
+<text x="378" y="143" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >01</text>
+<text x="396" y="143" fill="#a897ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >profile:</text>
+<text x="378" y="174" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >02</text>
+<text x="414" y="174" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >name:</text>
+<text x="475.0" y="174" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >Gabriel &quot;Darksi&quot;</text>
+<text x="378" y="205" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >03</text>
+<text x="414" y="205" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >handle:</text>
+<text x="495.4" y="205" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >DarkOverlord689</text>
+<text x="378" y="236" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >04</text>
+<text x="414" y="236" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >location:</text>
+<text x="515.8" y="236" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >Perú</text>
+<text x="378" y="267" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >05</text>
+<text x="414" y="267" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >focus:</text>
+<text x="378" y="298" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >06</text>
+<text x="432" y="298" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >-</text>
+<text x="452.2" y="298" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >AI Engineering</text>
+<text x="378" y="329" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >07</text>
+<text x="432" y="329" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >-</text>
+<text x="452.2" y="329" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >Backend Development</text>
+<text x="378" y="360" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >08</text>
+<text x="432" y="360" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >-</text>
+<text x="452.2" y="360" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >Automation</text>
+<text x="378" y="391" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >09</text>
+<text x="432" y="391" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >-</text>
+<text x="452.2" y="391" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >DevOps</text>
+<text x="396" y="438" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" text-anchor="start" ># AI, automation &amp; scalable systems</text>
+<rect x="1" y="450" width="958" height="35" rx="10" fill="#0e1d33" />
+<circle cx="22" cy="469" r="3" fill="#50dcf5" />
+<text x="34" y="474" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" >DarkOverlord689</text>
+<text x="940" y="474" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="end" >YAML / UTF-8</text>
+</svg>

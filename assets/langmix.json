@@ -1,0 +1,11 @@
+{
+  "title": "Languages / Tech",
+  "kind": "illustrative",
+  "axes": [
+    {"label": "Python", "value": 4},
+    {"label": "Java", "value": 3.5},
+    {"label": "JavaScript", "value": 3},
+    {"label": "TypeScript", "value": 3},
+    {"label": "Kotlin", "value": 2.5}
+  ]
+}

@@ -1,96 +1,72 @@
-# Hi 👋 I'm Gabriel “Darksi”
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=1200&lines=AI+Engineer+•+Automation+•+Backend+Engineer" />
-</p>
-
-* 🌍 Perú  
-* ✉️ gabriel.snk14@gmail.com  
-* 🧠 AI, Automation & Scalable Systems  
-* 📆 +6 years building software solutions  
+<div align="center">
 
 <a href="https://github.com/DarkOverlord689">
-<img src="https://img.shields.io/github/followers/DarkOverlord689?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" width="960" alt="Gabriel Darksi · DarkOverlord689 · Perú. AI Engineering, Backend Development, Automation and DevOps. Original IDE with a geometric D monogram.">
+  </picture>
 </a>
-<br><br>
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=DarkOverlord689&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg">
+  <img src="assets/typing-dark.svg" width="640" alt="AI Engineering · Backend · Automation · DevOps">
+</picture>
+
+</div>
+
+<h2 align="center"><code>$ whoami</code></h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
+    <img src="assets/whoami-dark.svg" width="960" alt="Terminal: Gabriel Darksi, AI Engineer / Backend Developer in Perú. 6+ years building software solutions; scalable systems, intelligent automation and AI-powered solutions.">
+  </picture>
 </p>
 
-# 🚀 About Me
+<h2 align="center"><code>$ cat tech-stack.yaml</code></h2>
 
-AI Engineer and Backend Developer focused on building scalable systems, intelligent automation and AI-powered solutions.
-
-# 🛠️ Tech Stack
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/tech-stack-light.svg">
+    <img src="assets/tech-stack-dark.svg" width="960" alt="Technology dashboard. Cloud &amp; DevOps: AWS, Docker, Kubernetes, Linux. AI / Machine Learning: Python, PyTorch, TensorFlow, OpenCV. Backend &amp; Frameworks: FastAPI, Spring, Node.js, Java, Kotlin. Databases: PostgreSQL, MySQL, MongoDB, Supabase. Frontend: React, Next.js, Tailwind CSS, JavaScript, TypeScript. Tools &amp; Automation: Git, GitHub Actions.">
+  </picture>
 </p>
 
-### 🤖 AI / Backend
+<h2 align="center">AI &amp; Engineering</h2>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="40" height="40"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/engineering-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/engineering-light.svg">
+    <img src="assets/engineering-dark.svg" width="960" alt="AI &amp; Engineering: Generative AI, RAG Systems and LLM Integrations; Computer Vision, OCR &amp; Document Processing; Backend Systems and Backend Architecture; Cloud Infrastructure and Automation.">
+  </picture>
 </p>
 
-### 🗄️ Databases
+<h2 align="center">Models</h2>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" height="40"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/models-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/models-light.svg">
+    <img src="assets/models-dark.svg" width="960" alt="Model registry. Vision / CNN architectures: EfficientNetV2, ResNet, MobileNet, Inception, Xception. Attention architectures: Transformers. Gradient-boosted trees: XGBoost.">
+  </picture>
 </p>
 
-### 🎨 Frontend
+<h2 align="center"><code>$ visualize skills --radar</code></h2>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40"/>
-</p>
-
-# 🤖 AI / Engineering
-
-`Generative AI` `RAG Systems` `LLM Integrations`
-`Computer Vision` `Automation`
-`Backend Architecture` `Cloud Infrastructure`
-`OCR & Document Processing`
-
-### ⚡ Models
-
-`Transformers` `XGBoost` `EfficientNetV2`
-`ResNet` `MobileNet` `Inception`
-`Xception`
-
-# 🌐 Socials
-
-<p align="left">
-<a href="https://github.com/DarkOverlord689"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a>
-<a href="https://www.instagram.com/darkovs77/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
-<a href="https://www.facebook.com/DarkOvs77/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" /></a>
-</p>
-
-# 🥇 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=DarkOverlord689&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkOverlord689&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-dark.svg" width="400" alt="Engineering Skills: AI/ML, Backend, Automation, DevOps, Databases and Frontend. Illustrative radar, not a skill score.">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-dark.svg" width="400" alt="Languages / Tech: Python, Java, JavaScript, TypeScript and Kotlin. Illustrative radar, not measured proficiency or usage.">
+  </picture>
 </p>

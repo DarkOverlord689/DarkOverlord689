@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">$ whoami · Gabriel Darksi</title><desc id="desc">AI Engineer / Backend Developer in Perú. 6+ years building software solutions. Mission: scalable systems, intelligent automation and AI-powered solutions. Generative AI, RAG, LLM integrations, computer vision, OCR and document processing.</desc>
+<defs><linearGradient id="signal" x2="1" y2="1">
+<stop stop-color="#50dcf5"/><stop offset=".6" stop-color="#418dff"/><stop offset="1" stop-color="#a897ff"/></linearGradient>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#243a55" stroke-width=".6"/></pattern></defs>
+<rect x="1" y="1" width="958" height="338" rx="14" fill="#050c17" stroke="#243a55" />
+<rect x="1" y="1" width="958" height="40" rx="14" fill="#0a1526" />
+<circle cx="22" cy="21" r="4" fill="#50dcf5" />
+<circle cx="40" cy="21" r="4" fill="#418dff" />
+<circle cx="58" cy="21" r="4" fill="#a897ff" />
+<text x="82" y="26" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" text-anchor="start" >darksi@profile: ~ / identity</text>
+<path d="M1 41L959 41" fill="none" stroke="#243a55" />
+<text x="24" y="79" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" text-anchor="start" >$ whoami</text>
+<text x="24" y="112" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="23" font-weight="700" text-anchor="start" >Gabriel “Darksi”</text>
+<text x="24" y="139" fill="#a897ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >AI Engineer / Backend Developer</text>
+<text x="24" y="180" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" text-anchor="start" >location</text>
+<text x="144" y="180" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >Perú</text>
+<text x="24" y="208" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" text-anchor="start" >experience</text>
+<text x="144" y="208" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >6+ years building software solutions</text>
+<text x="24" y="236" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" text-anchor="start" >mission</text>
+<text x="144" y="236" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >Scalable systems, intelligent automation</text>
+<text x="24" y="264" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" text-anchor="start" ></text>
+<text x="144" y="264" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="400" text-anchor="start" >&amp; AI-powered solutions</text>
+<path d="M596 65L596 295" fill="none" stroke="#243a55" />
+<text x="624" y="83" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" text-anchor="start" >$ ls engineering/</text>
+<circle cx="628" cy="116" r="2" fill="#418dff" />
+<text x="642" y="122" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" text-anchor="start" >Generative AI / RAG</text>
+<circle cx="628" cy="147" r="2" fill="#418dff" />
+<text x="642" y="153" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" text-anchor="start" >LLM Integrations</text>
+<circle cx="628" cy="178" r="2" fill="#418dff" />
+<text x="642" y="184" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" text-anchor="start" >Computer Vision / OCR</text>
+<circle cx="628" cy="209" r="2" fill="#418dff" />
+<text x="642" y="215" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" text-anchor="start" >Backend Architecture</text>
+<circle cx="628" cy="240" r="2" fill="#418dff" />
+<text x="642" y="246" fill="#e5f1ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" text-anchor="start" >Cloud / Automation</text>
+<text x="24" y="310" fill="#50dcf5" font-family="Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="400" text-anchor="start" >$</text>
+<rect x="47" y="295" width="9" height="18" rx="0" fill="#50dcf5" />
+<text x="936" y="310" fill="#91a9c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" text-anchor="end" >gabriel.snk14@gmail.com</text>
+</svg>
