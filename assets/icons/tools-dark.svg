@@ -25,5 +25,6 @@
 </svg>
 
         </g>
-
-  </svg>
+  <view id="git" viewBox="0 0 256 256"/>
+  <view id="githubactions" viewBox="300 0 256 256"/>
+</svg>

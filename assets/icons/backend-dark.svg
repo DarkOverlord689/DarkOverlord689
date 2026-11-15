@@ -35,5 +35,9 @@
 </svg>
 
         </g>
-
-  </svg>
+  <view id="fastapi" viewBox="0 0 256 256"/>
+  <view id="spring" viewBox="300 0 256 256"/>
+  <view id="nodejs" viewBox="600 0 256 256"/>
+  <view id="java" viewBox="900 0 256 256"/>
+  <view id="kotlin" viewBox="1200 0 256 256"/>
+</svg>

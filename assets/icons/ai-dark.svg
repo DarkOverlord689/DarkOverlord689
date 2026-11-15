@@ -31,5 +31,8 @@
 </svg>
 
         </g>
-
-  </svg>
+  <view id="python" viewBox="0 0 256 256"/>
+  <view id="pytorch" viewBox="300 0 256 256"/>
+  <view id="tensorflow" viewBox="600 0 256 256"/>
+  <view id="opencv" viewBox="900 0 256 256"/>
+</svg>
